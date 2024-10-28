@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 # Accounts for testing
 
 managertest@gmail.com : Password: managertest
-employeetest@gmail.com : Password: employeetest
+employeetest1@gmail.com : Password: employeetest
